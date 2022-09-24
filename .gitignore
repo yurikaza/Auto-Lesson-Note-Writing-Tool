@@ -1,4 +1,4 @@
-src/notion.json
-test/notion.json
+/src/notion.json
+/test/notion.json
 .env
 node_modules
