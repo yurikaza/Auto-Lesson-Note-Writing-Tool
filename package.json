@@ -1,0 +1,14 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "author": {
+    "email": "yusufmirza55@hotmail.com",
+    "name": "Yusuf Yurikaza Mirza Pıçakcı"
+  },
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "node-audiorecorder": "^3.0.0"
+  }
+}
